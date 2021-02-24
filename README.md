@@ -1,6 +1,6 @@
 # Awesome Metadata Application Profiles
 ## Introduction
-A list of awesome metadata metadata application profiles.  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+A list of awesome metadata application profiles.  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 The goal of this list is to create a curated list of various metadata application profiles as examples for those looking to develop their own metadata application profiles or may be studying this topic as part of their studies. 
 
